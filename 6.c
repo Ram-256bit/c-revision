@@ -2,5 +2,6 @@
 int main()
 {
 	int a,b;
-	int* p1,p2;
+	int* p1;
+	int* p2;
 }
